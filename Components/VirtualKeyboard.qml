@@ -22,8 +22,8 @@
 // along with SDDM Sugar Candy. If not, see <https://www.gnu.org/licenses/>
 //
 
-import QtQuick
-import QtQuick.VirtualKeyboard
+import QtQuick 2.15
+import QtQuick.VirtualKeyboard 2.15
 
 InputPanel {
     id: virtualKeyboard

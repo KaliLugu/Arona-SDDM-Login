@@ -21,9 +21,9 @@
 // You should have received a copy of the GNU General Public License
 // along with SDDM Sugar Candy. If not, see <https://www.gnu.org/licenses/>
 //
-import QtQuick
-import QtQuick.Layouts
-import QtQuick.Controls
+import QtQuick 2.15
+import QtQuick.Layouts 1.15
+import QtQuick.Controls 2.15
 
 //NOTE make the button suspend, hibernate, reboot, shutdown
 

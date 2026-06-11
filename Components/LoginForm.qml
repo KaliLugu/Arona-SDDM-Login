@@ -22,9 +22,9 @@
 // along with SDDM Sugar Candy. If not, see <https://www.gnu.org/licenses/>
 //
 
-import QtQuick
-import QtQuick.Layouts
-import SddmComponents as SDDM
+import QtQuick 2.15
+import QtQuick.Layouts 1.15
+import SddmComponents 2.0 as SDDM
 
 ColumnLayout {
     id: formContainer
